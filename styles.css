@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    text-align: center;
+    background: rgb(121, 121, 173);
+}
+.container{
+    display:flex ;
+   justify-content: space-around;
+  
+  
+}
+    
+#home-score{
+    background: #0a0001;
+    width: 180px;
+    height: 100px;
+    margin: 20px ;
+    color:  #F94F6D;
+    font-size: 70px;
+    border-radius:10px ;
+    padding-top: 20px;
+}
+   
+.btn{
+display: flex;
+justify-content: space-around;
+}
+
+
+#guest-score{
+
+    background: #0a0001;
+    width: 180px;
+    height: 100px;
+    margin: 20px ;
+    color:  #F94F6D;
+    font-size: 70px;
+    border-radius:10px ;
+    padding-top: 20px;
+}
+#home-score-btn-one {
+    width: 40px;
+    height: 40px;
+    background: none;
+    font-size:20px;
+    border: 2px solid white;
+}
+#home-score-btn-two {
+    width: 40px;
+    height: 40px;
+    background: none;
+    font-size:20px;
+    border: 2px solid white;
+}
+#home-score-btn-three {
+    width: 40px;
+    height: 40px;
+    background: none;
+    font-size:20px;
+    border: 2px solid white;
+}
+    
+
+#guest-score-btn-one {
+    width: 40px;
+    height: 40px;
+    background: none;
+    font-size:20px;
+    border: 2px solid white;
+
+
+}
+#guest-score-btn-two {
+    width: 40px;
+    height: 40px;
+    background: none;
+    font-size:20px;
+    border: 2px solid white;
+}
+#guest-score-btn-three {
+    width: 40px;
+    height: 40px;
+    background: none;
+    font-size:20px;
+    border: 2px solid white;
+}
+
+    
